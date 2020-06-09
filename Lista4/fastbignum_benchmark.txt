@@ -1,0 +1,6 @@
+n - liczba cyfr w liczbach a i b
+czas (sedkundy) dla wykonania a*b:
+		5.1		5.2		5.3
+n = 1000	16.87		0.11		0.01
+n = 5000	410.13		2.53		0.52
+n = 10000	1624.22		12.57		2.98
